@@ -1,0 +1,169 @@
+.bg-dark {
+    background-color: #f2f2f2!important;
+}
+.navbar-inverse .navbar-nav > .active > a, 
+ .navbar-inverse .navbar-nav > .active > a:hover, 
+ .navbar-inverse .navbar-nav > .active > a:focus {
+       border-bottom: 4px solid #00b6dd ;
+      color: #000;
+      background-color:transparent !important;
+ }
+.back{
+	background:url(../img/lap.jpg);
+	background-position-y: -100px;
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+    height: 750px;
+    margin-top: 0px;
+    position: relative;
+}
+.txt p {
+    font-size: 3em;
+    background-color: #000;
+    background: transparent;
+    text-align: center;
+    padding-top: 277px;
+    font-family: 'Roboto' !important;
+    font-weight: 200;
+    color: #fff;
+    word-spacing: 5px;
+    position: relative;
+    z-index: 12;
+}
+.pic1 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic2 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic3 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic4 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic5 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic6 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic7 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic8 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic9 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic10 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic11 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.pic12 img {
+    vertical-align: middle;
+    border-style: none;
+    width: 120px;
+}
+.footer {
+    background: #444444;
+    border-top: 6px solid #00b6dd;
+    min-height: 500px;
+}
+.college{
+	min-height: 500px;
+}
+.first{
+	margin-bottom: 50px;
+}
+.second{
+	margin-bottom: 50px;
+}
+.cy{
+	color:#888888;
+}
+.logo2{
+	margin-top: 30px;
+}
+.des{
+	margin-top: 30px;
+	color: #888;	
+}
+.links{
+	margin-top: 30px;
+	color: #888;	
+}
+.au h1 {
+    color: #888;
+    font-size: 2em;
+    padding-bottom: .1em;
+}
+.over {
+    background-color: rgba(109, 110, 112, 0.63);
+    min-height: 750px;
+    position: absolute;
+    width: 100%;
+    z-index: 10;
+    left: 0;
+}
+.sm i{
+	font-size: 2em;
+	padding-top: 2em;
+}
+.cy {
+    color: #888888;
+    padding-top: 39px;
+}
+.txt input {
+    position: relative;
+    z-index: 12;
+    width: 35%;
+    padding: 5px;
+    border: none;
+    border-radius: 30px;
+    padding-left: 30px;
+    margin-left: 31%;
+}
+.txt button {
+    position: relative;
+    z-index: 12;
+    margin-left: 24px;
+    border: none;
+    padding: 5px;
+    width: 11%;
+    border-radius: 30px;
+    background: #00b6dd;
+    color: #fff;
+}
+.fa-arrow-right{
+	color:#fff;
+	padding-left: 15px;
+
+}
